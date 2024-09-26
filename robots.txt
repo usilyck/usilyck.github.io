@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://usilyck.github.io/sitemap.usilyck.gz
+Sitemap: https://usilyck.github.io/app/sitemap.usilyck.gz
+Sitemap: https://usilyck.github.io/assets/sitemap.usilyck.gz
+Sitemap: https://usilyck.github.io/css/sitemap.usilyck.gz
+Sitemap: https://usilyck.github.io/data/sitemap.usilyck.gz
+Sitemap: https://usilyck.github.io/includes/sitemap.usilyck.gz
+Sitemap: https://usilyck.github.io/item/sitemap.usilyck.gz
+Sitemap: https://usilyck.github.io/src/sitemap.usilyck.gz
